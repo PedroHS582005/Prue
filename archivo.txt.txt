@@ -1,3 +1,2 @@
 Primera versión 
  echo "Segunda versión"
-- echo "Tercera versión"
